@@ -4,7 +4,7 @@
 
 There is also Dockerfile, no exposing ports or serviers needed.
 
-1. create .env file in src directory with the following content:
+1. create .env file in src directory with the following content:ddd
 ```
 BOT_TOKEN=<telegram-bot-token>
 LOGIN=<university login (example: ipz212_tsyav)>
